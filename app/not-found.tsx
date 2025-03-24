@@ -1,8 +1,6 @@
 import React from 'react'
 
-type Props = {}
-
-export default function notFound({ }: Props) {
+export default function notFound() {
     return (
         <div>Problem</div>
     )

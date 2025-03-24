@@ -2,9 +2,6 @@ import React from 'react'
 import { Car } from '@/lib/types/types'
 import CarList from '../compnents/ui/cars/CarList';
 
-type Props = {}
-
-
 const cars: Car[] = [
     {
         name: "Super Car",
@@ -53,7 +50,7 @@ const cars: Car[] = [
     }
 ];
 
-export default function page({ }: Props) {
+export default function page() {
     return (
         <div>
             <h1>cars</h1>
