@@ -1,5 +1,4 @@
 import React from 'react'
-import Card from '../compnents/ui/cars/Card'
 import { Car } from '@/lib/types/types'
 import CarList from '../compnents/ui/cars/CarList';
 

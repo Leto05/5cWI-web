@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Menu from "./compnents/ui/menu";
 
 export default function Home() {
